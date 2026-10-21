@@ -2,7 +2,7 @@
 class Student:
 
     # Define a method to display student details
-    def display(self, name, age):
+    def display(self, name, age): 
         print("Name:", name)
         print("Age:", age)
 
