@@ -46,6 +46,4 @@ obj1 = Movie("SpiderMan", 100)
 obj1.book_ticket(50)
 obj1.show_status()
 
-
-
         
